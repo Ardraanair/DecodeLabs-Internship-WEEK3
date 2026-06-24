@@ -1,0 +1,7 @@
+[Para 1] Ardra A Nair is pursuing B.Tech in Electronics and Communication Engineering at MBCET.
+
+[Para 2] She completed internships at Intel Unnati and Unibotix.
+
+[Para 3] She holds NPTEL certifications in IoT, Blockchain and Cybersecurity.
+
+[Para 4] She is passionate about drawing and dancing 

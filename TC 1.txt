@@ -1,0 +1,11 @@
+TC 1:
+What is Ardra pursuing?
+
+TC 2:
+What are passion of Ardra?
+
+TC 3:
+What is Ardra's CGPA?
+
+TC 4:
+What are Ardra's certifications?
