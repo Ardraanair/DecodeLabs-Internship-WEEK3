@@ -12,6 +12,8 @@ Hallucination Prevention
 Retrieval-Augmented Generation (RAG) Principles
 Test Cases
 
+link:https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221l4WFeNcC6OReuiJgvlblmQkKxaKRKi50%22%5D,%22action%22:%22open%22,%22userId%22:%22117155938400731026692%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+
 The project includes:
 
 Valid context-based queries
